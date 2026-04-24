@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://developer.android.com)
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 
-A brief, one-to-two sentence description of what your Android application does and who it is for. 
+A brief, one-to-two sentence description of what your Android application does and who it is for.         
 
 ## 📱 Features
 * **[Feature 1]:** Description of a core functionality (e.g., Real-time data sync).
