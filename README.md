@@ -81,4 +81,16 @@ MymadAssignment2/
 ├── build.gradle                           # Project-level build configurations
 └── README.md                              # Project documentation
 
+## Utilisation of GitHub and GitHub actions
+
+On GitHub we must make a read me file where this document and other documents will be submitted. We also must test our app on GitHub to ensure the app functions properly. 
+GitHub is the place where the user interface and code will be handed in. 
+Making use of GitHub actions to run tests and build my code which will help make sure that the code will not only work on just my computer.
+
+
+
+
 ##  Documentation
+
+
+## Youtube Video
