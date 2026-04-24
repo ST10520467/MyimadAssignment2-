@@ -1,5 +1,5 @@
 # MyimadAssignment2-
-# [Project Name]
+# UQUIZ
 
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://developer.android.com)
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
