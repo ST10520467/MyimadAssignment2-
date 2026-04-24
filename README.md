@@ -4,10 +4,10 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://developer.android.com)
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 
-#Purpose of App UQUIZ
--The purpose of this app is to allow the users of this app to study and verify life hacks with flashcards.
--This app provides a Life Hack or an Urban Myth. This app is a flashcard game which helps users test their common sense, learn useful and safe real world shortcuts. 
--This app is also made as users often struggle to distinguish between genuine productivity tips and urban myths that have gone viral.
+## Purpose of App UQUIZ
+* **The purpose of this app is to allow the users of this app to study and verify life hacks with flashcards.
+* **This app is also made as users often struggle to distinguish between genuine productivity tips and urban myths that have gone viral.
+* **This app is for users who want help studying and verify life hacks  
 
 ## 📱 Features
 * **[Feature 1]:** Description of a core functionality (e.g., Real-time data sync).
@@ -86,9 +86,10 @@ MymadAssignment2/
 
 ## Utilisation of GitHub and GitHub actions
 
-On GitHub we must make a read me file where this document and other documents will be submitted. We also must test our app on GitHub to ensure the app functions properly. 
-GitHub is the place where the user interface and code will be handed in. 
-Making use of GitHub actions to run tests and build my code which will help make sure that the code will not only work on just my computer.
+* **On GitHub we must make a read me file where this document and other documents will be submitted. 
+* **We also must test our app on GitHub to ensure the app functions properly. 
+* **GitHub is the place where the user interface and code will be handed in. 
+* **Making use of GitHub actions to run tests and build my code which will help make sure that the code will not only work on just my computer.
 
 
 
