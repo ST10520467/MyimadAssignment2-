@@ -56,8 +56,29 @@ TThe image shows the final screen of the app.This shows the user got full marks 
     Select an Emulator or a physical device and click the **Run** button (green play icon).
 
 ## 📂 Project Structure
-Briefly explain the folder structure if it’s unique:
-* `app/src/main/java/.../ui`: UI components and Activities.
-* `app/src/main/java/.../data`: Repositories and API logic.
-* `app/src/main/res`: Layouts, drawables, and strings.
+MymadAssignment2/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/mymadassignment2/
+│   │   │   │   ├── MainActivity.kt        # Entry point activity
+│   │   │   │   ├── MainActivity2.kt       # Second screen logic
+│   │   │   │   ├── MainActivity3.kt       # Third screen logic
+│   │   │   │   └── MainActivity4.kt       # Logic for the Results/Feedback screen
+│   │   │   ├── res/
+│   │   │   │   ├── layout/                # UI XML Layout files
+│   │   │   │   │   ├── activity_main.xml
+│   │   │   │   │   ├── activity_main2.xml
+│   │   │   │   │   ├── activity_main3.xml
+│   │   │   │   │   └── activity_main4.xml  # Score and Feedback UI (current view)
+│   │   │   │   ├── drawable/              # Images and background gradients
+│   │   │   │   ├── values/                # Colors, strings, and themes
+│   │   │   │   └── mipmap/                # App icons
+│   │   │   └── AndroidManifest.xml        # App configuration and activity registry
+│   ├── build.gradle                       # App-level build configurations
+│   └── src/test/                          # Unit and Instrumented tests
+├── gradle/                                # Gradle wrapper files
+├── build.gradle                           # Project-level build configurations
+└── README.md                              # Project documentation
 
+##Documentation
