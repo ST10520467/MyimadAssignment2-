@@ -5,9 +5,9 @@
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 
 ## Purpose of App UQUIZ
-* **The purpose of this app is to allow the users of this app to study and verify life hacks with flashcards.
-* **This app is also made as users often struggle to distinguish between genuine productivity tips and urban myths that have gone viral.
-* **This app is for users who want help studying and verify life hacks  
+* The purpose of this app is to allow the users of this app to study and verify life hacks with flashcards.
+* This app is also made as users often struggle to distinguish between genuine productivity tips and urban myths that have gone viral.
+* This app is for users who want help studying and verify life hacks  
 
 ## 📱 Features
 * **[Feature 1]:** Description of a core functionality (e.g., Real-time data sync).
@@ -49,7 +49,7 @@ TThe image shows the final screen of the app.This shows the user got full marks 
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+    https://github.com/ST10520467/MyimadAssignment2-.git
     ```
 2.  **Open the project:**
     Launch Android Studio and select **Open**, then navigate to the cloned folder.
@@ -86,12 +86,13 @@ MymadAssignment2/
 
 ## Utilisation of GitHub and GitHub actions
 
-* **On GitHub we must make a read me file where this document and other documents will be submitted. 
-* **We also must test our app on GitHub to ensure the app functions properly. 
-* **GitHub is the place where the user interface and code will be handed in. 
-* **Making use of GitHub actions to run tests and build my code which will help make sure that the code will not only work on just my computer.
+* On GitHub we must make a read me file where this document and other documents will be submitted. 
+* We also must test our app on GitHub to ensure the app functions properly. 
+* GitHub is the place where the user interface and code will be handed in. 
+* Making use of GitHub actions to run tests and build my code which will help make sure that the code will not only work on just my computer.
 
-
+## The design considerations
+The design of the 3 User Interfaces is supposed to appeal to the eye; The use interfaces should be an excellent appeal with exceptional usability and perfect consistency. All the correct buttons must be added to the 3 user interfaces in order to have a use friendly interface and an easy-to-use app for everyone that uses it.
 
 
 ##  Documentation
@@ -101,3 +102,6 @@ MymadAssignment2/
 
 
 ## References 
+Google (2026) Gemini (April 2026 version) [Large language model]. Available at: https://gemini.google.com (Accessed: 24 April 2026).
+
+The Independent Institute of Education (2026) Introduction to mobile application development: IMAD5112/p/w module manual 2026. Sandton: The Independent Institute of Education(Accessed: 24 April 2026).
