@@ -30,22 +30,18 @@ This image shows what happen when a user does not select any option(between hack
 This image shows the reults when u are finished answering the quiz,it shows the total number of questions you got correct,It also shows "You are Finished button"
 <img width="547" height="958" alt="Screenshot 2026-04-24 140730" src="https://github.com/user-attachments/assets/1c17238d-5f7b-40aa-b2b8-fa69ffdfe43a" />
 
-TThe image shows the final screen of the app.This shows the user got full marks which resulted the user in getting good message
+This image shows the user getting a bad mark,which results in the user getting a bad message about their result,also shows the review button which allows user to review quiz
+<img width="543" height="949" alt="image" src="https://github.com/user-attachments/assets/261a1c3a-4057-43b0-93c3-2f6ec9615623" />
+
+This image shows the user getting an average score,which resulted in the user getting a average messag,ealso shows the review button which allows user to review quiz 
+<img width="581" height="1041" alt="Screenshot 2026-04-24 111908" src="https://github.com/user-attachments/assets/98b7caf5-c45d-4c32-ab05-613d64a2b430" />
+
+TThe image shows the final screen of the app.This shows the user got full marks which resulted the user in getting good message,also shows the review button which allows user to review quiz
 <img width="601" height="1037" alt="Screenshot 2026-04-24 112306" src="https://github.com/user-attachments/assets/c905601b-8f9a-4ac4-9c03-94f8f18872a5" />
 
 
 
-
-
-
-
-
 ## 🚀 Getting Started
-
-### Prerequisites
-* Android Studio [Version, e.g., Iguana or Hedgehog]
-* Android SDK Level [e.g., 34]
-* JDK [e.g., 17]
 
 ### Installation
 1.  **Clone the repository:**
