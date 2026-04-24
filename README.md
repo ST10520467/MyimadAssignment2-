@@ -10,11 +10,11 @@
 * This app is for users who want help studying and verify life hacks.  
 
 ## 📱 Features of My App UQUIZ
-* **[Feature 1]:**The Welcome messaage on the first UI,the app description,and the start button which takes the user to the next screen.
+* **[Feature 1]:** The Welcome messaage on the first UI,the app description,and the start button which takes the user to the next screen.
 * **[Feature 2]:** The interactive flashcards.
 * **[Feature 3]:** The slection between Life hack(True) and myth(False).
-* **[Feature 4]:**The feeback you get after your slection between Hack and Myth and the feedback you get when the user has finished the quiz.
-* **[Feature 5]:**Another feature is the "Next Question Button" after each question.
+* **[Feature 4]:** The feeback you get after your slection between Hack and Myth and the feedback you get when the user has finished the quiz.
+* **[Feature 5]:** Another feature is the "Next Question Button" after each question.
 
 ## 📸 Screenshots
 This first image shows the first UI design.This UI displays a welcome message,brief message of my app UQUIZ,and a start button which starts the quizl
