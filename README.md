@@ -12,7 +12,9 @@ A brief, one-to-two sentence description of what your Android application does a
 * **[Feature 3]:** Description (e.g., Local SQLite database integration).
 
 ## 📸 Screenshots
+This first image shows the first UI design.This UI displays a welcome message,brief message of my app UQUIZ,and a start button which starts the quiz
 <img width="601" height="1028" alt="Screenshot 2026-04-24 002945" src="https://github.com/user-attachments/assets/5642c264-bd70-4772-b119-c9067c6e9fcb" />
+
 
 
 ## 🛠 Tech Stack & Libraries
