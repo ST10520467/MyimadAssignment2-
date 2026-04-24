@@ -6,7 +6,7 @@
 
 ## Purpose of App UQUIZ
 * The purpose of this app is to allow the users of this app to study and verify life hacks with flashcards.
-* This app is also made as users often struggle to distinguish between genuine productivity tips and urban myths that have gone viral.
+* This app(UQUIZ) is also made as users normally struggle to differentiate between  productivity tips and myths that have gone viral.
 * This app is for users who want help studying and verify life hacks.  
 
 ## 📱 Features of My App UQUIZ
