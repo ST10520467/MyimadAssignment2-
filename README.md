@@ -4,7 +4,10 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://developer.android.com)
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 
-A brief, one-to-two sentence description of what your Android application does and who it is for.         
+#Purpose of App UQUIZ
+-The purpose of this app is to allow the users of this app to study and verify life hacks with flashcards.
+-This app provides a Life Hack or an Urban Myth. This app is a flashcard game which helps users test their common sense, learn useful and safe real world shortcuts. 
+-This app is also made as users often struggle to distinguish between genuine productivity tips and urban myths that have gone viral.
 
 ## 📱 Features
 * **[Feature 1]:** Description of a core functionality (e.g., Real-time data sync).
@@ -94,3 +97,6 @@ Making use of GitHub actions to run tests and build my code which will help make
 
 
 ## Youtube Video
+
+
+## References 
