@@ -15,6 +15,10 @@ A brief, one-to-two sentence description of what your Android application does a
 This first image shows the first UI design.This UI displays a welcome message,brief message of my app UQUIZ,and a start button which starts the quiz
 <img width="601" height="1028" alt="Screenshot 2026-04-24 002945" src="https://github.com/user-attachments/assets/5642c264-bd70-4772-b119-c9067c6e9fcb" />
 
+This the start of the the second UI,it shows how the quiz format work,display the question,the option of where the answer will be,the choice of Hack(True) and Myth(False) and the next question button.
+<img width="572" height="1015" alt="Screenshot 2026-04-24 003008" src="https://github.com/user-attachments/assets/04e6b9fd-efbb-40d2-81d9-943f43db5bc9" />
+
+
 
 
 ## 🛠 Tech Stack & Libraries
