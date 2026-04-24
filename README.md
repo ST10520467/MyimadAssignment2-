@@ -27,6 +27,10 @@ This image shows the results when a user of the app gets a question incorrect,an
 This image shows what happen when a user does not select any option(between hack or myth).The mesage over the button will appear
 <img width="595" height="1052" alt="Screenshot 2026-04-24 003334" src="https://github.com/user-attachments/assets/11069b2f-ebbb-47a7-b20c-202926e8e4d3" />
 
+This image shows the reults when u are finished answering the quiz,it shows the total number of questions you got correct
+<img width="547" height="958" alt="Screenshot 2026-04-24 140730" src="https://github.com/user-attachments/assets/1c17238d-5f7b-40aa-b2b8-fa69ffdfe43a" />
+
+
 
 
 
