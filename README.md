@@ -27,9 +27,11 @@ This image shows the results when a user of the app gets a question incorrect,an
 This image shows what happen when a user does not select any option(between hack or myth).The mesage over the button will appear
 <img width="595" height="1052" alt="Screenshot 2026-04-24 003334" src="https://github.com/user-attachments/assets/11069b2f-ebbb-47a7-b20c-202926e8e4d3" />
 
-This image shows the reults when u are finished answering the quiz,it shows the total number of questions you got correct
+This image shows the reults when u are finished answering the quiz,it shows the total number of questions you got correct,It also shows "You are Finished button"
 <img width="547" height="958" alt="Screenshot 2026-04-24 140730" src="https://github.com/user-attachments/assets/1c17238d-5f7b-40aa-b2b8-fa69ffdfe43a" />
 
+TThe image shows the final screen of the app.This shows the user got full marks which resulted the user in getting good message
+<img width="601" height="1037" alt="Screenshot 2026-04-24 112306" src="https://github.com/user-attachments/assets/c905601b-8f9a-4ac4-9c03-94f8f18872a5" />
 
 
 
@@ -37,13 +39,6 @@ This image shows the reults when u are finished answering the quiz,it shows the 
 
 
 
-## 🛠 Tech Stack & Libraries
-* **Language:** [Kotlin / Java]
-* **UI Framework:** [XML / Jetpack Compose]
-* **Architecture:** [MVVM / MVI / Clean Architecture]
-* **Networking:** [Retrofit / Volley]
-* **Database:** [Room / Firebase]
-* **Dependency Injection:** [Hilt / Koin]
 
 ## 🚀 Getting Started
 
@@ -70,9 +65,3 @@ Briefly explain the folder structure if it’s unique:
 * `app/src/main/java/.../data`: Repositories and API logic.
 * `app/src/main/res`: Layouts, drawables, and strings.
 
-## 📄 License
-This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contact
-Your Name - [@your_handle] - email@example.com
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
