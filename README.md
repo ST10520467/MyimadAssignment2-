@@ -56,7 +56,7 @@ TThe image shows the final screen of the app.This shows the user got full marks 
 3.  **Sync Gradle:**
     Allow Android Studio to download the necessary dependencies and sync the Gradle files.
 4.  **Run the app:**
-    Select an Emulator or a physical device and click the **Run** button (green play icon).
+    Select an Emulator,the emulator I use is blue stacks click the **Run** button (green play icon).
 
 ## 📂 Project Structure
 MymadAssignment2/
