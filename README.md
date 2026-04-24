@@ -18,6 +18,10 @@ This first image shows the first UI design.This UI displays a welcome message,br
 This the start of the the second UI,it shows how the quiz format work,display the question,the option of where the answer will be,the choice of Hack(True) and Myth(False) and the next question button.
 <img width="572" height="1015" alt="Screenshot 2026-04-24 003008" src="https://github.com/user-attachments/assets/04e6b9fd-efbb-40d2-81d9-943f43db5bc9" />
 
+This Image shows the results when a user of the aoo gets a qustion correct,and the message that appears when a users gets a question correct
+<img width="547" height="958" alt="Screenshot 2026-04-24 140730" src="https://github.com/user-attachments/assets/6c2104c6-948d-44b3-8cc2-d2546abec4dd" />
+
+
 
 
 
